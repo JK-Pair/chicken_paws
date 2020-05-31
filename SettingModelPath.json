@@ -1,0 +1,12 @@
+{
+  "command": "video",
+  "read_video_path": "E:/videoII/Test/Sequence 02_17.mp4",
+  "save_video_path": "C:/Users/wilat/OneDrive/Desktop/images_II",
+  "video_save_name": "video_save_name",
+  "_model": "cocosynth_dataset20191015T0907\\mask_rcnn_cocosynth_dataset_0100.h5",
+  "train_path": "C:/Users/wilat/OneDrive/Desktop/validation/train/write",
+  "val_path": "C:/Users/wilat/OneDrive/Desktop/Real_val",
+  "epoch": 10,
+  "database": "c:/Users/wilat/Downloads/Mask_RCNN-master/Mask_RCNN-master/chicken_paws_project/FPD_Database_V7.db"
+
+}
